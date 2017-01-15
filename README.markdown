@@ -1,6 +1,9 @@
 `unicode_data`
 ==============
 
+Source code for the discussion at
+http://erlang.org/pipermail/erlang-questions/2017-January/091379.html
+
 Erlang source code based on the Elixir 1.4.0 source code for handling
 [unicode](https://github.com/elixir-lang/elixir/tree/master/lib/elixir/unicode).
 
