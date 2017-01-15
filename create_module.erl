@@ -51,8 +51,6 @@ main(Arguments) ->
               o_f_unicode_codepoints()],
     io:format("~s~n", [Module]),
 
-
-%    io:format("~s", [o_vsn(VersionUnicode)]),
     exit_code(0).
 
 cluster(ClusterPath) ->
