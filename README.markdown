@@ -23,6 +23,8 @@ The Unicode version provided on the command line to the `create_module.erl`
 script is added to the Erlang module output in the `vsn` data, with the
 current timestamp as a suffix on the Erlang module version.
 
+[https://github.com/erlang/otp/pull/1330](https://github.com/erlang/otp/pull/1330) is pursuing these ideas
+
 How To Use
 ----------
 
